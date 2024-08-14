@@ -1,0 +1,33 @@
+{
+  "originHash" : "0f4989800541b32c7793c8588cc4b403d419b7ea070336da71edd5f9e1eb8ce4",
+  "pins" : [
+    {
+      "identity" : "mbprogresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jdg/MBProgressHUD.git",
+      "state" : {
+        "revision" : "bca42b801100b2b3a4eda0ba8dd33d858c780b0d",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "ycarousel-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yml-org/ycarousel-ios",
+      "state" : {
+        "revision" : "358f0ab6d2c5786dabd2dc601c6952197cbbf775",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "ycoreui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yml-org/YCoreUI.git",
+      "state" : {
+        "revision" : "38f2a285e43c044c2693a5a21e958b4b78c81492",
+        "version" : "1.7.0"
+      }
+    }
+  ],
+  "version" : 3
+}
